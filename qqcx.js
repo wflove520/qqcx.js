@@ -11,7 +11,7 @@
 *******************************
 [rewrite_local]
 # > 全球潮汐-全球天气预报及离线潮汐
-^https:\/\/g\.catches\.com\/v1\/user\?method\=userInfo url script-response-body https://raw.githubusercontent.com/WeiGiegie/666/main/qqcx.js
+^https:\/\/g\.catches\.com\/v1\/user\?method\=userInfo url script-response-body https://raw.githubusercontent.com/wflove520/qqcx.js/refs/heads/main/qqcx.js
 
 [mitm]
 hostname = g.catches.com
